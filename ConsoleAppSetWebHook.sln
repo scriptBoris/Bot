@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSetWebHook", "ConsoleAppSetWebHook\ConsoleAppSetWebHook.csproj", "{73E7E327-79FB-43DB-91A5-F955763F9CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppWcf", "ConsoleAppWcf\ConsoleAppWcf.csproj", "{CD51F2A4-3716-426C-98C6-E6A95DBA45C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viber.Bot", "Viber.Bot\Viber.Bot.csproj", "{708C64FD-356B-4151-94CB-217666315F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E7E327-79FB-43DB-91A5-F955763F9CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E7E327-79FB-43DB-91A5-F955763F9CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E7E327-79FB-43DB-91A5-F955763F9CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E7E327-79FB-43DB-91A5-F955763F9CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD51F2A4-3716-426C-98C6-E6A95DBA45C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD51F2A4-3716-426C-98C6-E6A95DBA45C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD51F2A4-3716-426C-98C6-E6A95DBA45C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD51F2A4-3716-426C-98C6-E6A95DBA45C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708C64FD-356B-4151-94CB-217666315F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708C64FD-356B-4151-94CB-217666315F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708C64FD-356B-4151-94CB-217666315F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708C64FD-356B-4151-94CB-217666315F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AF709D-D760-4139-ADCB-6DD430235069}
+	EndGlobalSection
+EndGlobal
